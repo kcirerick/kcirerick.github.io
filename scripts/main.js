@@ -1,10 +1,8 @@
-var clickHere = document.querySelector('div');
+var clickHere = document.querySelector('button');
 clickHere.onclick = function() {
-	if(clickHere.textContent === 'You will receive an email when the bomb drops!') {
-		clickHere.textContent = 'Chill!'
-	} else {
-		clickHere.textContent = 'You will receive an email when the bomb drops!';
-	}
+	var myEmail = prompt('Enter your email to get notified when the bomb drops!');
+  localStorage.setItem('email', myEmail);
+  alert('We will let you know when you can secure the bag!');
 }
 
 var myImage = document.querySelector('img');

@@ -29,6 +29,12 @@ p {
 	text-shadow: 1px 2px 1px black;
 }
 
+#click-this {
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+}
+
 h1 {
 	font-size: 50px;
 	height: 25px;
@@ -59,13 +65,10 @@ body {
 }
 
 h3 {
-	text-align: center;
+	position: relative;
+	left: 270px;
 	margin: 0 auto;
 	font-size: 30px;
 	color: #451a70;
 	text-shadow: 1px 2px 1px black;
-}
-
-#butt {
-	padding: 0 0 0 0;
 }
