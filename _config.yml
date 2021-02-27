@@ -1,37 +1,4 @@
-Skip to content
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@kcirerick 
-mmistakes
-/
-minimal-mistakes
-115
-7.7k13.3k
-Code
-Issues
-2
-Pull requests
-19
-Discussions
-Actions
-Projects
-Security
-Insights
-minimal-mistakes/_config.yml
-@SeanKilleen
-SeanKilleen Add toggle option for RSS feed visibility (#2787)
-…
-Latest commit 7bb68ed 22 days ago
- History
- 30 contributors
-@mmistakes@d-Rickyy-b@ohadschn@Pradhyo@yihangho@LoveMeWithoutAll@YuyingWu@westes@vlajos@tony-ho@SeanKilleen@rriemann
-282 lines (255 sloc)  8.02 KB
-  
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -46,7 +13,7 @@ Latest commit 7bb68ed 22 days ago
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-# minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
