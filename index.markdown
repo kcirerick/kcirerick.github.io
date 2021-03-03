@@ -1,6 +1,7 @@
 ---
 title: "Home"
 layout: splash
+layout: home
 author_profile: true
 header:
   overlay_image: /images/starry.jpg
