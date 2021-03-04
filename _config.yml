@@ -269,10 +269,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-<<<<<<< HEAD
       comments: false
-=======
-      comments: # true
->>>>>>> parent of 02d0e41... Update default posts.
       share: true
       related: true
