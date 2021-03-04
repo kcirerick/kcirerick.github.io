@@ -1,6 +1,6 @@
 ---
 layout: page
 title: About
-permalink: /about2/
+permalink: /_pages/about2/
 ---
 Hello world
