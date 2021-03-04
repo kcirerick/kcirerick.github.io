@@ -101,6 +101,7 @@ author:
   avatar           : #"/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Hi everybody, my name is Erick and i'm a 3rd year undergraduate at Stanford University. My interests
                       vary from math and computer science, to mindfulness and wellness, to education, to fitness.
+                      
                       Basically, I have a lot of thoughts and ideas, so I put this blog together just to have somewhere to put
                       them. I hope you enjoy."
   location         : "Lathrop, CA"
