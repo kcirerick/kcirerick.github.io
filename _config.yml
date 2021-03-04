@@ -19,7 +19,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Erick Enriquez"
 title_separator          : "-"
-subtitle                 : "Erick's World" # site tagline that appears below site title in masthead
+subtitle                 : #"Erick's World" # site tagline that appears below site title in masthead
 name                     : "Erick Enriquez"
 description              : "My description here."
 url                      : "https://kcirerick.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -97,7 +97,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Erick Enriquez"
+  name             : # "Erick Enriquez"
   avatar           : #"/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Hi everybody, my name is Erick and i'm a 3rd year undergraduate at Stanford University. My interests
                       vary from math and computer science, to mindfulness and wellness, to education, to fitness.
