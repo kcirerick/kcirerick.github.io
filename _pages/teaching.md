@@ -1,9 +1,7 @@
 ---
+title: "Education"
+layout: splash
 layout: page
-title: Teaching & Education
-permalink: /_pages/teaching/
-classes:
-  - landing
-  - dark-theme
+author_profile: false
 ---
 Site under construction.
