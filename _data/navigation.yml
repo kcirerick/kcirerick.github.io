@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "Education"
-    url: https://mmistakes.github.io/minimal-mistakes/_pages/teaching/
+    url: https://kcirerick.github.io/_pages/teaching/
   - title: "Programming"
-    url: https://mmistakes.github.io/_pages/programming/
+    url: https://kcirerick.github.io/_pages/programming/
   - title: "More"
-    url: https://mmistakes.github.io/_pages/more/
+    url: https://kcirerick.github.io/_pages/more/
  # - title: "Sample Collections"
  #   url: /collection-archive/
  # - title: "Sitemap"
