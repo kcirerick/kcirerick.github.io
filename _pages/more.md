@@ -1,10 +1,9 @@
 ---
 title: "More"
-layout: page
+layout: splash
 permalink: /_pages/more/
 classes:
   - landing
   - dark-theme
-
 ---
 Site under construction.

@@ -1,7 +1,6 @@
 ---
 title: "Programming"
 layout: splash
-layout: home
 permalink: /_pages/programming/
 ---
 <body> When I first started programming two and ahlf years ago, I couldn't have predicted how central of a role it would play in my life.
