@@ -1,8 +1,9 @@
 ---
 title: "Education"
-layout: page
+layout: splash
 author_profile: false
 permalink: /_pages/teaching/
 ---
-**Hello**
-*Note: This site is under development*, but I am hoping to include a brief history of places i've taught in the past as well as updates about my progress with KPCA- a college essay editing (and soon to be tutoring) business where I am currently an essay editor, operations manager, and product manager hoping to launch a live essay counseling service this fall. We have worked with thousands of students in the past couple of years and hope to continue building our momentum to alleviate students' stress during the college application process while also helping them become better writers all while helping them find their strengths. <break> Outside of KPCA, I have also tutored middle school and high school math and science circles at Stanford University, tutored private clients in math, and currently work as an instructor at Inspirit AI where I teach high school students the fundamental ideas and techniques used in modern Artificial Intelligence and Machine learning. 
+<h1>Education</h1>
+<body>*Note: This site is under development*, but I am hoping to include a brief history of places i've taught in the past as well as updates about my progress with KPCA- a college essay editing (and soon to be tutoring) business where I am currently an essay editor, operations manager, and product manager hoping to launch a live essay counseling service this fall. We have worked with thousands of students in the past couple of years and hope to continue building our momentum to alleviate students' stress during the college application process while also helping them become better writers all while helping them find their strengths. 
+<br> Outside of KPCA, I have also tutored middle school and high school math and science circles at Stanford University, tutored private clients in math, and currently work as an instructor at Inspirit AI where I teach high school students the fundamental ideas and techniques used in modern Artificial Intelligence and Machine learning. </body>
