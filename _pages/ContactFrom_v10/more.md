@@ -6,7 +6,6 @@ classes:
   - landing
   - dark-theme
 ---
-<!DOCTYPE html>
 <html lang="en">
 <head>
 	<title>Contact V10</title>
